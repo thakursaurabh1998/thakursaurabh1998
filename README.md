@@ -1,25 +1,10 @@
-### Hi there 👋
+## Hey there 👋
 
-I'm currently working at [smallcase](https://smallcase.com) as a Software Developer Engineer
+I'm currently working at [smallcase](https://smallcase.com) as a Backend Engineer
 
 I was [Google Summer of Code 2019 student](https://summerofcode.withgoogle.com/archive/2019/projects/5362213500485632/
 ) and mentor for the year 2020 😄
 
 I love nature and the road trips that take me closer to it, always ready for another ⛰ 🌏
 
-I write my thoughts here https://saurabhthakur.dev
-
-<!--
-**thakursaurabh1998/thakursaurabh1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I write my thoughts here https://saurabhthakur.dev
