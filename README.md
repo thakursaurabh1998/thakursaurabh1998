@@ -8,5 +8,3 @@ I was [Google Summer of Code 2019 student](https://summerofcode.withgoogle.com/a
 I love nature and the road trips that take me closer to it, always ready for another ⛰ 🌏
 
 #### I write my thoughts here https://saurabhthakur.dev
-
-![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=thakursaurabh1998)
