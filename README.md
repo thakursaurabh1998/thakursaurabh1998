@@ -7,4 +7,4 @@ I was [Google Summer of Code 2019 student](https://summerofcode.withgoogle.com/a
 
 I love nature and the road trips that take me closer to it, always ready for another ⛰ 🌏
 
-#### I write my thoughts here https://saurabhthakur.dev
+I write my thoughts here https://saurabhthakur.dev
