@@ -1,7 +1,6 @@
 ## Hey there 👋
 
 I'm a Software Development Engineer  
-Previously I worked as a Backend Engineer at [smallcase](https://smallcase.com) and as a Data Engineer [Clarisights](https://clarisights.com).
 
 I was [Google Summer of Code 2019 student](https://summerofcode.withgoogle.com/archive/2019/projects/5362213500485632/
 ) and mentor for the year 2020 😄
